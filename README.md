@@ -35,7 +35,7 @@ lib/
 2. **Navigate to the project folder**
 
    ```bash
-   cd PRODIGY_AD_02
+   cd PRODIGY_AD_03
    ```
 
 3. **Install dependencies**
